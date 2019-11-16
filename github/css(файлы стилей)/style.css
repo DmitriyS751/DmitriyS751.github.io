@@ -1,0 +1,142 @@
+*{
+	box-sizing: border-box;
+}
+body{
+background: #ccc url(background_003.jpg) no-repeat 50% 50% fixed;
+}
+
+
+
+.main{
+
+	background-image:url(topoboi.com-2256.jpg);
+	
+	margin-left: 25%;
+	width: 900px;
+	height: 1000%;
+	position: relative;
+	z-index: block;
+	display: inline-block;
+	
+}
+
+.ava{
+	background-image: url(J6zqVfPl4So.jpg);
+	background-size:150%;
+	height: 170px;
+	width: 170px;
+	position: relative;
+	left: 35px;
+	z-index: block;
+	float: left;
+	display: inline-block;
+	border: 5px solid black;
+
+
+}
+
+.name{
+	margin-left: 25%;
+	margin-top: 40px;
+}
+
+.name span{
+	font-weight: 500;
+	font-size: 40px;
+	color: #ffff;
+}
+.head{
+	background-image: url(фон-темный.jpg);
+	background-size:150%;
+	z-index: block;
+	display: inline-block;
+	position: relative;
+	height: 180px;
+	width: 875px;
+	margin-left:15px ;
+	border: 5px solid black;
+	
+}
+.menu{
+	
+	margin-top: 3%;
+	margin-left:35px;	
+}
+.menu a{
+	color: #f1803c;
+}
+
+.info{
+	display: inline-block;
+	
+	margin-top: 40%;
+	margin-left:35px;
+	width: 600px;
+	font-size: 20px;
+	border: 5px solid black;
+}
+.info h2{
+	color: #f1803c;
+}
+.info p{
+	color: #ffff;
+}
+.exp{
+	display: inline-block;
+	
+	margin-top: 70%;
+	margin-left:35px;
+	width: 600px;
+	font-size: 20px;
+	border: 5px solid black;
+
+}
+.exp h2{
+	color: #f1803c;
+}
+.exp p{
+	color: #ffff;
+}
+
+.Photo{
+	display: inline-block;
+	
+	margin-top: 100%;
+	margin-left:35px;
+	width: 550px;
+	font-size: 20px;
+	border: 5px solid black;
+}
+.Photo h2{
+	color: #f1803c;
+}
+.foto1{
+	height: 150px;
+	width: 150px;
+	background-image: url(3091.jpg);
+	display: inline-block;
+	background-size: 177%;
+	margin: 10px;
+
+}
+.foto2{
+	height: 150px;
+	width: 150px;
+	background-image: url(12378687-thumb.jpg);
+	display: inline-block;
+	background-size: 160%;
+	margin: 10px;
+
+}
+.foto3{
+	height: 150px;
+	width: 150px;
+	background-image: url(scale_1200.webp);
+	display: inline-block;
+	background-size: 150%;
+	margin: 10px;
+
+}
+
+
+
